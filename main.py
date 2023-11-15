@@ -5,4 +5,7 @@ def main():
 def calculator(a,b):
     return a+b
 
+def test()
+    pass
+
 main()

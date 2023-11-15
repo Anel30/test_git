@@ -1,3 +1,8 @@
 def main():
     print("Hello world")
-main()git
+
+
+def calculator(a,b):
+    return a+b
+
+main()
